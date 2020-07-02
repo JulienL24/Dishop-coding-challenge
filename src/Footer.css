@@ -1,0 +1,21 @@
+.App-footer {
+    background-color: #1E1E1E;
+    color: grey;
+}
+
+.Table-footer{
+  width: 50%;
+  background-color: #1e1e1e;
+}
+
+.Table-logo{
+  width: 10%;
+}
+
+button{
+  border-collapse: collapse;
+  background-color: #1E1E1E;
+  border-style: none;
+  font-size: 15px;
+  color:white;
+}
