@@ -9,7 +9,7 @@ const TableauHeader = <header>
             <td className="td3"><button type="button" className="Button-start">Start your free trial</button></td>
         </tr>
         <tr className="App-banner">
-            <h3>Popular Series</h3>
+        <h3>Popular Titles</h3>
         </tr>
     </table>
 </header>
